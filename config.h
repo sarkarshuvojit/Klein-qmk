@@ -45,3 +45,7 @@
 #ifdef AUDIO_ENABLE
     #define NO_MUSIC_MODE
 #endif
+
+#define TAPPING_TERM 180
+#define PERMISSIVE_HOLD
+#define IGNORE_MOD_TAP_INTERRUPT
